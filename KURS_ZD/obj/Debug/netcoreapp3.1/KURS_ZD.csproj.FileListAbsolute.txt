@@ -1,0 +1,52 @@
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.exe
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.deps.json
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.runtimeconfig.json
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.runtimeconfig.dev.json
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.dll
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.pdb
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.AssemblyReference.cache
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.GenerateResource.cache
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AssemblyInfoInputs.cache
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AssemblyInfo.cs
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.CoreCompileInputs.cache
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.dll
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.pdb
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.genruntimeconfig.cache
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AboutForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.Properties.Resources.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.BeginForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step1.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step2.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.GenerateForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step3.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step4_1.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step4_2.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step5.resources
+C:\Users\506\OneDrive\Рабочий стол\Ирина\МЭИ\ЗД\KURS_ZD\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.SettingsPassForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.exe
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.deps.json
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.runtimeconfig.json
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.runtimeconfig.dev.json
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.dll
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\bin\Debug\netcoreapp3.1\KURS_ZD.pdb
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.AssemblyReference.cache
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AboutForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.BeginForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.GenerateForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.Properties.Resources.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.SettingsPassForm.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step1.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step2.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step3.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step4_1.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step4_2.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.step5.resources
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.GenerateResource.cache
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AssemblyInfoInputs.cache
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.AssemblyInfo.cs
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.csproj.CoreCompileInputs.cache
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.dll
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.pdb
+C:\Users\506\OneDrive\Рабочий стол\Зайцева Ирина А-13а-20\KURS_ZD\obj\Debug\netcoreapp3.1\KURS_ZD.genruntimeconfig.cache
